@@ -1,0 +1,7 @@
+android:
+安卓驱动入门系列：http://blog.csdn.net/brantyou/article/details/8651385#comments
+linux:
+uboot:
+git:
+makefile:
+shell:
